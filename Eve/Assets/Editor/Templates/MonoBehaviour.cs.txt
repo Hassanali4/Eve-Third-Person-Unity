@@ -1,0 +1,19 @@
+//
+//Copyright (c) Hassan_Ali. All rights reserved 
+//
+
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN
+/// <summary>
+/// #NAME#
+/// </summary>
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        #NOTRIM#
+    }
+}
+#ROOTNAMESPACEEnd

@@ -1,0 +1,15 @@
+//
+//Copyright (c) Hassan_Ali. All rights reserved 
+//
+
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN
+/// <summary>
+/// #NAME#
+/// </summary>
+public class #SCRIPTNAME#
+{
+    #NOTRIM#
+}
+#ROOTNAMESPACEEnd
